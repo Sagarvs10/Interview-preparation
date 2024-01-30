@@ -1,0 +1,39 @@
+.homeContainer {
+    height: 500px;
+    max-width: auto;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h1 {
+    color: black;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: whitesmoke;
+    margin-bottom: 15px;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  a:hover {
+    color: #0056b3;
+  }
+
+  .image{
+    width: 43%;
+    height: 40%;
+  }
+  
+  

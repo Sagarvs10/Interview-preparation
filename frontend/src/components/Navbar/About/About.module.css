@@ -1,0 +1,22 @@
+.aboutContain {
+  max-width: auto;
+  margin: auto;
+  padding: 20px;
+  height: 500px;
+  
+  
+  
+  box-shadow: 0 0 10px rgba(147, 57, 57, 0.1);
+}
+h1{
+  color: #f8f8f8;
+}
+
+.aboutContents {
+  font-size: 16px;
+  line-height: 1.5;
+  color: white;
+  
+  font-weight: bold;
+}
+
